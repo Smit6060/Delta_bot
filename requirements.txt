@@ -1,4 +1,0 @@
-falsk
-delta-rest-client
-gunicorn
-request
